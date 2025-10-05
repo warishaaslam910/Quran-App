@@ -1,16 +1,28 @@
-# flutterapp15
+# 🕌 Quran App - Flutter
 
-A new Flutter project.
+**Quran App** is a simple Flutter application that allows users to **read Quran text** fetched from a **Quran API** and **listen to audio recitation** using an audio package.  
+This app is perfect for beginners learning Flutter, API integration, and audio playback.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📖 Read Quran text from a public API  
+- 🔊 Listen to Quran recitation using an audio package  
+- 💫 Clean and responsive Flutter UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**  
+- **Quran API** (for fetching text)  
+- **Audio Player package** (for recitation)  
+
+---
+
+## 📦 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/QuranApp.git
